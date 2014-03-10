@@ -2,8 +2,7 @@
 Infinity Map Maker
 
 ## Authors
-- Donghee, Hong, proonan29
-- Insert other author(s) name, surname, github account (one per list element)
+[Donghee (Gini) Hong](https://github.com/proonan29)
 
 ## Description
 As a gamemaker, I was wondering how to create beautiful scenary from just random numbers. The method I found out can generate unlimited 2D maps of ocean, sea, mountains, lakes, and natural seashore. Bring out any smart phone or tablet, it can give hours of fun to watch. Rendered image can be used as map for other games.
