@@ -1,12 +1,12 @@
 # Project Title
-Insert the name of your project
+Infinity Map Maker
 
 ## Authors
-- Insert main author name, surname, github account
+- Donghee, Hong, proonan29
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+As a gamemaker, I was wondering how to create beautiful scenary from just random numbers. The method I found out can generate unlimited 2D maps of ocean, sea, mountains, lakes, and natural seashore. Bring out any smart phone or tablet, it can give hours of fun to watch. Rendered image can be used as map for other games.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
