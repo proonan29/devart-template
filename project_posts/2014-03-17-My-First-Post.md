@@ -12,11 +12,11 @@ My idea was quite simple. Let's start with an image buffer filled with pure rand
 
 ## Reverse quantization and adding modulation
 
-Now I can call the algorithm "Reverse quantiziation with modulation" but I didn't know what I was doing. I was going to magnify pixels in center area and double the size horizontally and vertically. Then the new image would be enlarged to x4 but dull. Then I added some modulation on entire pixels. The modulation have only small difference from all the adjacent pixels. So after each iteration, newer image would have enlarged, median, randomly modulated pixels. Since each pixel had index value of geographical height, the newer image would more look like real map.
+Now I can call the algorithm "Reverse quantiziation with modulation" but I didn't know what I was doing. I was going to magnify pixels in center area and double the size horizontally and vertically. Then the new image would be enlarged to x4 but dull. Then I added some modulation on entire pixels. The modulation have only small difference from all the adjacent pixels. So after each iteration, newer image would have enlarged, median, randomly modulated pixels. Since each pixel had index value interpreted as geographical height, the newer image would more look like real map.
 
 ## Requirement for experiment
 
-Bringing the idea into real world is very exciting. But something must be done to do that. A fast computer with advanced graphic card would do the job. It was not easy as today. VGA board only showed 256 colors on 320x200 resolution. That was the best graphics colors provided by industry standard by the time.
+Bringing the idea into real world was very exciting. But something had to be done to do that. A fast computer with advanced graphic card would do the job. It was not easy as today. VGA board only showed 256 colors on 320x200 resolution. That was the best graphics colors provided by industry standard by the time.
 
 To be continued.
 
