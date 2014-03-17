@@ -2,8 +2,6 @@
     "technologies": {
         "apis": [
             "C++"
-            "objective-c"
-            "java"
         ],
         "platforms": [
             "android"
