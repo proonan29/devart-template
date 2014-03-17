@@ -1,5 +1,5 @@
-# Project Title
-Infinity Map Maker
+# Infinity Map Maker
+Making random map on any device
 
 ## Authors
 [Donghee (Gini) Hong](https://github.com/proonan29)
