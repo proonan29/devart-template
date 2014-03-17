@@ -1,10 +1,12 @@
 {
     "technologies": {
         "apis": [
-            "C++"
+            "C++",
+            "objective-c",
+            "java"
         ],
         "platforms": [
-            "android"
+            "android",
             "ios"
         ],
         "toolkits": [
