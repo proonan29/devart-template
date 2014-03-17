@@ -1,10 +1,11 @@
 # Infinity Map Maker
-Making random map on any device
 
 ## Authors
 [Donghee (Gini) Hong](https://github.com/proonan29)
 
 ## Description
+Making random map on any device
+
 As a gamemaker, I was wondering how to create beautiful scenary from just random numbers. The method I found out can generate unlimited 2D maps of ocean, sea, mountains, lakes, and natural seashore. Bring out any smart phone or tablet, it can give hours of fun to watch. Rendered image can be used as map for other games.
 
 ## Link to Prototype
