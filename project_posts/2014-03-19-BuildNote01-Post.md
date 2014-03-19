@@ -1,4 +1,4 @@
-# Build Note #1
+# Build Note - 1
 
 ## What device/OS to use?
 Next step would be making the idea into actual code. And there were many choices that I could take. To make the project as versatile as possible, I would like to demonstrate it as an mobile app so that many people can actually test it.
