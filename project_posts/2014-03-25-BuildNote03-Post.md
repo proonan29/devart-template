@@ -1,7 +1,7 @@
 # Build Note - 3
 
 ## Variation on Palette
-I won't be the only person who fill bored to watch similar patterns over and over again. How about filling the canvas with different palettes? I made 4 different palettes and tested to see what would happen.
+I won't be the only person who feel bored to watch similar patterns over and over again. How about filling the canvas with different palettes? I made 4 different palettes and tested to see what would happen.
 Each palette has 256 meaningful pixels used as height map.
 
 ## Palette 1 - Original scheme
